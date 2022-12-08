@@ -1,0 +1,14 @@
+нояб. 29, 2022 11:03:30 PM com.example.App createArrayRandom
+INFO: length array: 5
+нояб. 29, 2022 11:03:30 PM com.example.App printArray
+INFO:   not sorted array: [98, 71, 74, 17, 69]
+нояб. 29, 2022 11:03:30 PM com.example.App sortArrayBubble
+INFO: 1-я итерация;  Результат сортировки: [71, 74, 17, 69, 98]
+нояб. 29, 2022 11:03:30 PM com.example.App sortArrayBubble
+INFO: 2-я итерация;  Результат сортировки: [71, 17, 69, 74, 98]
+нояб. 29, 2022 11:03:30 PM com.example.App sortArrayBubble
+INFO: 3-я итерация;  Результат сортировки: [17, 69, 71, 74, 98]
+нояб. 29, 2022 11:03:30 PM com.example.App sortArrayBubble
+INFO: 4-я итерация;  Результат сортировки: [17, 69, 71, 74, 98]
+нояб. 29, 2022 11:03:30 PM com.example.App printArray
+INFO:       sorted array: [17, 69, 71, 74, 98]
